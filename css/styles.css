@@ -645,12 +645,12 @@ img {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   box-shadow: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.modal-form-btn:disabled {
+/* .modal-form-btn:disabled {
   filter: grayscale(1);
   background-color: transparent;
   color: inherit;
   cursor: not-allowed;
-}
+} */
 
 .modal-form-btn:hover,
 .modal-form-btn:focus {
